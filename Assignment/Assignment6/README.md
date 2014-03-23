@@ -1,5 +1,2 @@
-Assignment6
-===========
-
-
-#Problem 2
+CIS552-HW6
+==========
