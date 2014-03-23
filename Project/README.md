@@ -1,6 +1,6 @@
 Project
 =======
-GHC 7.6
+work with GHC 7.6
 ##Choose a topic
 - Perhaps you would like to go deeper into one of the topics that we have covered in this course.
 - Perhaps there is an algorithm or library or program that you have studied in a different course and would like to rewrite in Haskell.
