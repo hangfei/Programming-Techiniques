@@ -2,8 +2,11 @@ HW 7 - Project proposal
 =======================
 
 
-
+#Radiell
 ##A Haskell Cloud Radio Station
+This a Haskell cloud/Internet radio project. We are aiming at building a raido station over the Internet/cloud. This cloud radio station would give you an unlimited access to the internet raido services. 
+The cloud raido station composes of four parts: html-based graphical user interface, back-end server, database, raido data fetching. 
+
 
 
 
